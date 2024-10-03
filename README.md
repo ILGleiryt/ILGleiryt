@@ -8,6 +8,7 @@
 - 📫 How to reach me: Email ->> Pochtabang@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: <?>
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css,.net)](https://skillicons.dev)
 
 - ## End
 
