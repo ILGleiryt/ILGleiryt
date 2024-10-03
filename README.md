@@ -1,14 +1,10 @@
  # About me
 
-- 🔭 I’m currently working on <?>
+- 🔭 I’m currently working on pet projects
 - 🌱 I’m currently learning C#,ASP.NET Core
-- 👯 I’m looking to collaborate on <?>
-- 🤔 I’m looking for help with <?>
-- 💬 Ask me about <?>
 - 📫 How to reach me: Email ->> Pochtabang@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: <?>
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,.net)](https://skillicons.dev)
 
-- ## End
+[![My Skills](https://skillicons.dev/icons?i=cs,html,css,dotnet,docker,git,github)](https://skillicons.dev)
+
 
