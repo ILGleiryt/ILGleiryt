@@ -6,7 +6,9 @@
  ___
  
  ### :hammer_and_wrench: Чем пользуюсь:
-[![My Skills](https://skillicons.dev/icons?i=cs,html,css,dotnet,docker,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,html,css,git,github)](https://skillicons.dev)
+### 👷‍♂️ Что планирую изучить:
+[![My Skills](https://skillicons.dev/icons?i=js,docker,dotnet)](https://skillicons.dev)
 
 
 
